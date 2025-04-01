@@ -50,7 +50,8 @@
 (defgroup andvance-words-count nil
   "Extended `count-words' function."
   :prefix "words-count"
-  :group 'wp)
+  :group 'wp
+  :version "0.8.8")
 
 (defcustom words-count-rule-CJK "\\cc"
   "A regexp string to match CJK characters."
