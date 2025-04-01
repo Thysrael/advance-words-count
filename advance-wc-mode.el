@@ -6,7 +6,7 @@
 ;; Maintainer:
 ;; Created: Fri Mar 31 23:00:08 2017 (+0800)
 ;; Version: 0.8.8
-;; Package-Requires: (wc-mode)
+;; Package-Requires: ((wc-mode "0"))
 ;; Last-Updated:
 ;;           By:
 ;;     Update #: 0
