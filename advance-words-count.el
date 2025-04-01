@@ -6,7 +6,7 @@
 ;; Maintainer: LdBeth <andpuke@foxmail.com>
 ;; Created: Wed Mar 29 14:42:25 2017 (+0800)
 ;; Version: 0.8.8
-;; Package-Requires: (pos-tip)
+;; Package-Requires: (pos-tip "0.4.5")
 ;; Last-Updated:
 ;;           By:
 ;;     Update #: 1
