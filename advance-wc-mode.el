@@ -51,7 +51,8 @@
 
 (defgroup advance-wc-mode nil
   "Advanced `wc-mode'."
-  :group 'andvance-words-count)
+  :group 'andvance-words-count
+  :version "0.8.8")
 
 (defcustom advance-wc-modeline-format "[%W%w/%tw]"
   "The format string for the modeline.
